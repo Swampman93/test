@@ -1,4 +1,4 @@
 <xml>
-<name>Ivan<name/>
-<age>28<age/>
-
+<name>Ivan</name>
+<age>28</age>
+<city>Vologda</city>
